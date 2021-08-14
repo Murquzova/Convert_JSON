@@ -1,0 +1,59 @@
+[
+    {   "id":1,
+        "name":"Ali",
+        "surname":"Veliyev",
+        "age":23,
+        "gender":"male"
+    
+    },
+    {   "id":2,
+        "name":"Miray",
+        "surname":"Abbasova",
+        "age":22,
+        "gender":"female"
+    
+    },
+    {   "id":3,
+        "name":"Tural",
+        "surname":"Rahilmi",
+        "age":64,
+        "gender":"male"
+    },
+    {   "id":4,
+        "name":"Abbas",
+        "surname":"Novruzov",
+        "age":22,
+        "gender":"male"
+    },
+    {   "id":5,
+        "name":"Nurane",
+        "surname":"Mirzoyeva",
+        "age":32,
+        "gender":"gemale"
+    },
+    {   "id":6,
+        "name":"Punhan",
+        "surname":"Selimli",
+        "age":26,
+        "gender":"male"
+    },
+    {   "id":7,
+        "name":"Samir",
+        "surname": "Aliyev",
+        "age":41,
+        "gender":"male"
+    },
+    {   "id":8,
+        "name":"Sema",
+        "surname":"Mehtiyeva",
+        "age":52,
+        "gender":"female"
+    },
+    {
+        "id":9,
+        "name":"Fuad",
+        "surname":"Maharramov",
+        "age":92,
+        "gender":"male"
+    }
+]
